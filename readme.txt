@@ -8,4 +8,4 @@ It seems that I am soon confronted with some difficulties...
 
 It is so difficult.
 
-Maybe I can persist on it.
+
