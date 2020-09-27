@@ -10,4 +10,4 @@ It is so difficult.
 
 The functions are going to be more and more complex...
 
-I am dev, I want to edit this file.
+I am master, I want to edit this file.
