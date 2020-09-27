@@ -7,3 +7,5 @@ This is my first day to learn git, I think is's really a uasable tool for versio
 It seems that I am soon confronted with some difficulties...
 
 It is so difficult.
+
+Maybe I can persist on it.
