@@ -1,2 +1,2 @@
-Git is a version control system.
-Git is a free software.
+Git is a readme file.
+Giut is a free software.
